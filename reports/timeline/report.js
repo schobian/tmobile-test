@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"6fde0afb-8631-4f7d-b764-dcaf8d795f67","feature":"Dodanie smartfona bez abonamentu do koszyka","scenario":"Dodanie wybranego urządzenia do koszyka","start":1779535242549,"group":3,"content":"","tags":"","end":1779535259512,"className":"passed"},{"id":"5a05e2a5-ab0a-4791-aaf3-5bc62099e5ac","feature":"Dodanie smartfona bez abonamentu do koszyka","scenario":"Dodanie wybranego urządzenia do koszyka","start":1779535259519,"group":3,"content":"","tags":"","end":1779535274076,"className":"passed"},{"id":"1036e593-ba43-4fd3-95c9-69ebc1873fb1","feature":"Dodanie smartfona bez abonamentu do koszyka","scenario":"Dodanie wybranego urządzenia do koszyka","start":1779535274081,"group":3,"content":"","tags":"","end":1779535289093,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":3,"content":"Thread[#3,main,5,main]"}]);
+});
